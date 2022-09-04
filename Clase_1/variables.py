@@ -15,3 +15,4 @@ print("El tipo de dato de Y es: ",type(y))
 resultado = x * y
 
 print('El resultado es --> ', resultado)
+
